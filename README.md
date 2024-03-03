@@ -1,2 +1,2 @@
 # one-liners
- pithy, practical python
+ pithy practical python
